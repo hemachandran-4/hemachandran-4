@@ -22,3 +22,11 @@ Curious and self-motivated backend developer determined to contribute to a highl
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### :Contact me:
+<div>
+        <a href="mailto:chandran1996.j@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" alt="" title="gmail" alt="Java" width="40" height="40"/>&nbsp;</a>
+        <a href="https://www.linkedin.com/in/hemachandran-j4848"><img src="https://simpleicons.org/icons/linkedin.svg" alt="" title="linkedin" alt="Java" width="40" height="40"/>&nbsp;</a>
+        <a href="https://hemachandran-4.github.io/"><img src="https://simpleicons.org/icons/files.svg" alt="" title="portfolio" alt="Java" width="40" height="40"/>&nbsp;</a>
+
+    </div>
