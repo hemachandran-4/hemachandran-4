@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Header](.github-header-image.png)
+![Header](./github-header-image.png)
 
 Curious and self-motivated backend developer determined to contribute to a highly collaborative work environment and to develop customized interfaces that demand unique accessing features, behaviors, and safety. Experience in developing optimized web applications across multiple APIs, servers, and databases with a goal of customer satisfaction.
 
