@@ -3,12 +3,10 @@
 
 <img src="./github-header-image.png" title="Hemachandran's Banner" width="100%" >
 
-<div style="display:flex">
-   <div>Curious and self-motivated backend developer determined to contribute to a highly collaborative work environment and to develop customized interfaces that       demand unique accessing features, behaviors, and safety. Experience in developing optimized web applications across multiple APIs, servers, and databases with a goal  of customer satisfaction.</div>
-  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div>
-</div>
+
+<b>Curious and self-motivated backend developer determined to contribute to a highly collaborative work environment and to develop customized interfaces that demand unique accessing features, behaviors, and safety. Experience in developing optimized web applications across multiple APIs, servers, and databases with a goal  of customer satisfaction.</b>
+   
+<!--    <a><div><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/></div></a> -->
 
 
 ## &#x1f4c8; GitHub Stats
