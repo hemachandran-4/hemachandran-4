@@ -5,8 +5,9 @@
 
 Curious and self-motivated backend developer determined to contribute to a highly collaborative work environment and to develop customized interfaces that demand unique accessing features, behaviors, and safety. Experience in developing optimized web applications across multiple APIs, servers, and databases with a goal of customer satisfaction.
 
-![Hemchandran's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemachandran-4&theme=dark&show_icons=true)
 
+## Statistics
+![Hemchandran's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemachandran-4&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemachandran-4&layout=compact)](https://github.com/hemachandran-4/github-readme-stats)
 
 <!-- <div align="center">
