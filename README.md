@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hey+I'm+Hemachandran+J!)](https://git.io/typing-svg)
 
 
 <img src="./github-header-image.png" title="Hemachandran's Banner" width="100%" >
@@ -43,6 +43,7 @@ Curious and self-motivated backend developer determined to contribute to a highl
 </div> -->
 
 ### Contact me:
+
 <div>
         <a href="mailto:chandran1996.j@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" alt="" title="gmail" alt="Java" width="40" height="40"/>&nbsp;</a>
         <a href="https://www.linkedin.com/in/hemachandran-j4848"><img src="https://simpleicons.org/icons/linkedin.svg" alt="" title="linkedin" alt="Java" width="40" height="40"/>&nbsp;</a>
