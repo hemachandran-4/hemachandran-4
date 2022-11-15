@@ -3,22 +3,35 @@
 
 <img src="./github-header-image.png" title="Hemachandran's Banner" width="100%" >
 
-Curious and self-motivated backend developer determined to contribute to a highly collaborative work environment and to develop customized interfaces that demand unique accessing features, behaviors, and safety. Experience in developing optimized web applications across multiple APIs, servers, and databases with a goal of customer satisfaction.
+<div style="display:flex">
+   <div>Curious and self-motivated backend developer determined to contribute to a highly collaborative work environment and to develop customized interfaces that       demand unique accessing features, behaviors, and safety. Experience in developing optimized web applications across multiple APIs, servers, and databases with a goal  of customer satisfaction.</div>
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  </div>
+</div>
 
 
-## Statistics
+## &#x1f4c8; GitHub Stats
 ![Hemchandran's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemachandran-4&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemachandran-4&layout=compact)](https://github.com/hemachandran-4/github-readme-stats)
 
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div> -->
+
+
+
+<!-- <a href="https://github.com/hemachandran-4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemachandran-4&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/hemachandran-4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hemachandran-4&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hemachandran's GitHub Stats" />
+</a> -->
+   
+
 
 ## Skills
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=java" title="Java"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=spring" title="Spring" />&nbsp;
     <img src="https://skillicons.dev/icons?i=css" title="CSS" />&nbsp;
@@ -46,7 +59,7 @@ Curious and self-motivated backend developer determined to contribute to a highl
 ### Contact me:
 
 <div>
-        <a href="mailto:chandran1996.j@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" alt="" title="gmail" alt="Java" width="40" height="40"/>&nbsp;</a>
-        <a href="https://www.linkedin.com/in/hemachandran-j4848"><img src="https://simpleicons.org/icons/linkedin.svg" alt="" title="linkedin" alt="Java" width="40" height="40"/>&nbsp;</a>
-        <a href="https://hemachandran-4.github.io/"><img src="https://simpleicons.org/icons/files.svg" alt="" title="portfolio" alt="Java" width="40" height="40"/>&nbsp;</a>
+        <a href="mailto:chandran1996.j@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="" title="gmail" alt="Java" width="40" height="40"/>&nbsp; </a> 
+        <a href="https://www.linkedin.com/in/hemachandran-j4848"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="" title="linkedin" alt="Java" width="40" height="40"/>&nbsp;</a>
+        <a href="https://hemachandran-4.github.io/"><img src="https://cdn-icons-png.flaticon.com/128/1975/1975643.png" alt="" title="portfolio" alt="Java" width="40" height="40"/>&nbsp;</a>
  </div>
