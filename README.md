@@ -1,10 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hey+I'm+Hemachandran+J!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hey+👋+I'm+Hemachandran+J!)](https://git.io/typing-svg)
 
 
 <img src="./github-header-image.png" title="Hemachandran's Banner" width="100%" >
 
 
-<b>Curious and self-motivated backend developer determined to contribute to a highly collaborative work environment and to develop customized interfaces that demand unique accessing features, behaviors, and safety. Experience in developing optimized web applications across multiple APIs, servers, and databases with a goal  of customer satisfaction.</b>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+
+<p line-height="100">Curious and self-motivated backend developer determined to contribute to a highly collaborative work environment and to develop customized interfaces that demand unique accessing features, behaviors, and safety. Experience in developing optimized web applications across multiple APIs, servers, and databases with a goal  of customer satisfaction.</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<div>
+        <a href="mailto:chandran1996.j@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="" title="gmail" alt="Java" width="40" height="40"/>&nbsp; </a> 
+        <a href="https://www.linkedin.com/in/hemachandran-j4848"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="" title="linkedin" alt="Java" width="40" height="40"/>&nbsp;</a>
+        <a href="https://hemachandran-4.github.io/"><img src="https://cdn-icons-png.flaticon.com/128/1975/1975643.png" alt="" title="portfolio" alt="Java" width="40" height="40"/>&nbsp;</a>
+ </div>
+</p>
+
+
+
    
 <!--    <a><div><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/></div></a> -->
 
@@ -38,7 +52,7 @@
     <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate" />&nbsp;
     <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;
     <img src="https://skillicons.dev/icons?i=aws" title="AWS" />&nbsp;
-    
+    <img src="https://skillicons.dev/icons?i=mysql" title="mysql" />&nbsp;
   </a>
 </p>
 
@@ -54,10 +68,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div> -->
 
-### Contact me:
+<!-- ### Contact me:
 
 <div>
         <a href="mailto:chandran1996.j@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="" title="gmail" alt="Java" width="40" height="40"/>&nbsp; </a> 
         <a href="https://www.linkedin.com/in/hemachandran-j4848"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="" title="linkedin" alt="Java" width="40" height="40"/>&nbsp;</a>
         <a href="https://hemachandran-4.github.io/"><img src="https://cdn-icons-png.flaticon.com/128/1975/1975643.png" alt="" title="portfolio" alt="Java" width="40" height="40"/>&nbsp;</a>
- </div>
+ </div> -->
