@@ -24,10 +24,21 @@
 
 
 ## &#x1f4c8; GitHub Stats
-![Hemchandran's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemachandran-4&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemachandran-4&layout=compact)](https://github.com/hemachandran-4/github-readme-stats)
 
-
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemachandran-4&theme=moonlight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemachandran-4&theme=moonlight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemachandran-4&theme=moonlight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hemachandran-4&theme=moonlight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hemachandran-4&theme=moonlight&utcOffset=8">
+	
+</p>
+<p align="center" style="margin-right:0px;padding-right:0px">
+<img src="https://github-readme-stats.vercel.app/api?username=hemachandran-4&theme=moonlight" width="400">
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hemachandran-4&theme=moonlight" width="400">
+</p>
+<a href="https://github.com/hemachandran-4"><img alt="Hemachandran's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hemachandran-4&custom_title=Hemachandran's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 
 
 <!-- <a href="https://github.com/hemachandran-4">
