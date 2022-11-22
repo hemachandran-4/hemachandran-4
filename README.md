@@ -22,6 +22,7 @@
    
 <!--    <a><div><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/></div></a> -->
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemachandran-4&theme=algolia" alt="Hemachandran" /></a> </p>
 
 ## &#x1f4c8; GitHub Stats
 
