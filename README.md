@@ -8,6 +8,31 @@
 
 <p line-height="100">Curious and self-motivated backend developer determined to contribute to a highly collaborative work environment and to develop customized interfaces that demand unique accessing features, behaviors, and safety. Experience in developing optimized web applications across multiple APIs, servers, and databases with a goal  of customer satisfaction.</p>
 
+
+
+## Skills
+
+
+<p align="left">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=java" title="Java"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=spring" title="Spring" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=css" title="CSS" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=html" title="HTML" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=aws" title="AWS" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=mysql" title="mysql" />&nbsp;
+  </a>
+</p>
+
+
+
+   
+<!--    <a><div><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/></div></a> -->
+<!-- ## &#x1f4c8; Trophy
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemachandran-4&theme=zenburn" alt="Hemachandran" /></a> </p> -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div>
@@ -16,13 +41,6 @@
         <a href="https://hemachandran-4.github.io/"><img src="https://cdn-icons-png.flaticon.com/128/1975/1975643.png" alt="" title="portfolio" alt="Java" width="40" height="40"/>&nbsp;</a>
  </div>
 </p>
-
-
-
-   
-<!--    <a><div><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/></div></a> -->
-## &#x1f4c8; Trophy
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemachandran-4&theme=zenburn" alt="Hemachandran" /></a> </p>
 
 ## &#x1f4c8; GitHub Stats
 
@@ -51,7 +69,7 @@
    
 
 
-## Skills
+<!-- ## Skills
 
 
 <p align="center">
@@ -66,7 +84,7 @@
     <img src="https://skillicons.dev/icons?i=aws" title="AWS" />&nbsp;
     <img src="https://skillicons.dev/icons?i=mysql" title="mysql" />&nbsp;
   </a>
-</p>
+</p> -->
 
 
 <!-- ### :hammer_and_wrench: Languages and Tools :
