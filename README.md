@@ -20,12 +20,18 @@
     <img src="https://skillicons.dev/icons?i=css" title="CSS" />&nbsp;
     <img src="https://skillicons.dev/icons?i=html" title="HTML" />&nbsp;
     <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;
+    
+  </a>
+</p>
+<p align="left">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate" />&nbsp;
     <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;
     <img src="https://skillicons.dev/icons?i=aws" title="AWS" />&nbsp;
     <img src="https://skillicons.dev/icons?i=mysql" title="mysql" />&nbsp;
   </a>
 </p>
+
 
 
 
