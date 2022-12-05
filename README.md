@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hey+👋+I'm+Hemachandran+J!)](https://git.io/typing-svg)
-<img src="/BannerNew.jpg" title="Hemachandran's Banner" width="100%" >
+<!-- <img src="/BannerNew.jpg" title="Hemachandran's Banner" width="100%" > -->
 
 <!-- <img src="./github-header-image.png" title="Hemachandran's Banner" width="100%" >  -->
 
