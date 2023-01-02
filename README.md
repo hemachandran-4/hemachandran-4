@@ -60,9 +60,9 @@
 </p>
 <p align="center" style="margin-right:0px;padding-right:0px">
 <img src="https://github-readme-stats.vercel.app/api?username=hemachandran-4&theme=default" width="400">
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hemachandran-4&theme=default" width="400">
+<!-- <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hemachandran-4&theme=default" width="400"> -->
 </p>
-<a href="https://github.com/hemachandran-4"><img alt="Hemachandran's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hemachandran-4&custom_title=Hemachandran's%20Contribution%20Graph&theme=default" /></a>
+<!-- <a href="https://github.com/hemachandran-4"><img alt="Hemachandran's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hemachandran-4&custom_title=Hemachandran's%20Contribution%20Graph&theme=default" /></a> -->
   <br/>
 
 
