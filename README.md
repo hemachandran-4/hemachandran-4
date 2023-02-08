@@ -27,7 +27,6 @@
   <a href="">
     <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate" />&nbsp;
     <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;
-    <img src="https://skillicons.dev/icons?i=aws" title="AWS" />&nbsp;
     <img src="https://skillicons.dev/icons?i=mysql" title="mysql" />&nbsp;
   </a>
 </p>
