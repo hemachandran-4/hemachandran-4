@@ -28,6 +28,7 @@
     <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate" />&nbsp;
     <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;
     <img src="https://skillicons.dev/icons?i=mysql" title="mysql" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=py" title="Python" />&nbsp;
   </a>
 </p>
 
