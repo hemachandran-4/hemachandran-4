@@ -29,6 +29,7 @@
     <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;
     <img src="https://skillicons.dev/icons?i=mysql" title="mysql" />&nbsp;
     <img src="https://skillicons.dev/icons?i=py" title="Python" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=aws" title="aws" />&nbsp;
   </a>
 </p>
 
